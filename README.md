@@ -2,6 +2,7 @@
 
 ###下面是src中的main.ts代码： 
 
+```java
 function draw(n:Number){
     for (var j :number= 1; j <=n; j++) {
         var str :string= "";
@@ -18,3 +19,4 @@ function draw(n:Number){
 window.onload = () => {
     draw(5);
 };
+```
